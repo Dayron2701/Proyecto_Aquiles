@@ -72,33 +72,6 @@ Plataforma para medir el salto vertical, conectar jugadores con entrenadores cer
 
 ---
 
-## Estructura sugerida del repositorio
-
-```text
-proyecto_aquiles/
-├─ .github/
-│  ├─ ISSUE_TEMPLATE/          # Plantillas de issues (bug, feature, tarea)
-│  ├─ PULL_REQUEST_TEMPLATE.md # Checklist de PR
-│  └─ workflows/               # CI/CD (lint, test, build)
-├─ docs/
-│  ├─ arquitectura.md
-│  ├─ requisitos.md
-│  ├─ roadmap.md
-│  └─ decisiones/              # ADRs
-├─ apps/
-│  ├─ mobile/                  # App cliente
-│  └─ web/                     # Panel/web (si aplica)
-├─ services/
-│  ├─ api/                     # Backend principal
-│  └─ vision-ai/               # Servicio de medición/análisis
-├─ packages/                   # Librerías compartidas
-├─ scripts/                    # Utilidades de desarrollo
-├─ README.md
-├─ CONTRIBUTING.md
-├─ LICENSE
-└─ TASKS.md
-```
-
 ---
 
 ## Puesta en marcha (plantilla)
