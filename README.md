@@ -82,33 +82,6 @@ Plataforma para medir el salto vertical, conectar jugadores con entrenadores cer
 - Gestor de dependencias correspondiente
 - Variables de entorno configuradas (`.env`)
 
-### Instalación
-```bash
-# Clonar repositorio
-git clone https://github.com/<organizacion>/proyecto_aquiles.git
-cd proyecto_aquiles
-
-# Instalar dependencias (ejemplo)
-# npm install
-# pip install -r requirements.txt
-```
-
-### Ejecución en desarrollo
-```bash
-# Ejemplo: levantar servicios
-# npm run dev
-# uvicorn app.main:app --reload
-```
-
-### Pruebas y calidad
-```bash
-# Lint
-# npm run lint
-
-# Tests
-# npm test
-```
-
 ---
 
 ## Modelo de datos (entidades clave)
