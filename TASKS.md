@@ -78,7 +78,7 @@
 
 ---
 
-## Criterio de finalización ("matrícula de honor")
+## Criterio de finalización
 
 - Repositorio con documentación completa, navegación clara y decisiones trazables.
 - Trabajo gestionado por issues/project con prioridades y responsables definidos.
