@@ -3,7 +3,7 @@
 ## Reporte de vulnerabilidades
 No abras issues públicos para vulnerabilidades de seguridad.
 
-- **Contacto:** security@<dominio-del-proyecto> (sustituir por el canal oficial)
+- **Contacto:** Javier Cuevas CTO
 - **Incluye:** descripción, impacto, pasos de reproducción, versión/commit afectado y, si es posible, mitigación propuesta.
 - **Plazo objetivo de respuesta inicial:** 72 horas.
 
